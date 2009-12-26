@@ -1,0 +1,18 @@
+Changes
+lib/Color/Calc/hex.pm
+lib/Color/Calc/html.pm
+lib/Color/Calc/object.pm
+lib/Color/Calc/pdf.pm
+lib/Color/Calc/tuple.pm
+Build.PL
+Makefile.PL
+MANIFEST
+README
+t/DEPRECATED_import_hex.t
+t/DEPRECATED_import_html.t
+t/DEPRECATED_import_object.t
+t/DEPRECATED_import_tuple.t
+t/DEPRECATED_non-import.t
+LICENSE
+META.yml
+SIGNATURE    Added here by Module::Build

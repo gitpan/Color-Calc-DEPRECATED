@@ -1,0 +1,30 @@
+Color::Calc::DEPRECATED
+=======================
+
+This distribution contains some deprecated and obsolete modules from the
+Color-Calc distribution.
+
+They are made available for compatibility but kept in a separate distro in
+order to keep clutter from the main distribution.
+
+You should not use these modules for new projects.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Build.PL
+   ./Build
+   ./Build test
+   ./Build install
+
+DEPENDENCIES
+
+This module requires Color::Calc.
+
+COPYRIGHT AND LICENCE
+
+Copyright 2004-2010 Claus Färber
+
+This library is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself. 

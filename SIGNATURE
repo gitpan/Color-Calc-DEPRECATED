@@ -1,0 +1,40 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.55.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+SHA1 1e8eb0562e69ef2df533198e806e8f3bab1cd669 Build.PL
+SHA1 5ac7b236f7acac231c5c043e3428d60fd2f64574 Changes
+SHA1 5e8892b211d2e08c1b98d3a033b4d8439158339e LICENSE
+SHA1 df489ee64a6f151a62c525b244a1bf9b3ec14989 MANIFEST
+SHA1 e540e7ffe240ac8de3d5dcb1f285bf608ed565e2 META.yml
+SHA1 8a3613b8ad730bbf7b6f8d1079dcdbdf9ffc626d Makefile.PL
+SHA1 5b63e65489d672bdf6866bf6de6f83a2f3e9c67e README
+SHA1 6493d91a79624051e68206f23d71c32345bb148e lib/Color/Calc/hex.pm
+SHA1 123d006ef53b1578eb2967c68a7b398c2044e66e lib/Color/Calc/html.pm
+SHA1 af2ddab1f04c9bfa323b543877d9126ffb28d41b lib/Color/Calc/object.pm
+SHA1 99abfc5e1516675577ea7623c9d71974e6843f1c lib/Color/Calc/pdf.pm
+SHA1 fe518929d56e4ee929db9dd8b87e319275f8abb5 lib/Color/Calc/tuple.pm
+SHA1 8383f21c3a945b30e4be722f6b2b46a64a8cdfbe t/DEPRECATED_import_hex.t
+SHA1 d585280d0c1c6175af5073fde3297b663570cdb5 t/DEPRECATED_import_html.t
+SHA1 48c29297226fcbeddf9037cee8fb16a42ec0bc4d t/DEPRECATED_import_object.t
+SHA1 329d41defa3b886a6fd9113dccb5a25e7f736191 t/DEPRECATED_import_tuple.t
+SHA1 210a70371bb396ac754461832465aa4cb0d0d8f8 t/DEPRECATED_non-import.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.10 (Darwin)
+
+iEYEARECAAYFAks2lVAACgkQSKUOY2OWgPBDtwCgoOwea9Pvn0Q5YmeCIgBzoJzT
+O9IAnjQxI6wiaOeMVurqhULAiEquZq44
+=mmnT
+-----END PGP SIGNATURE-----
