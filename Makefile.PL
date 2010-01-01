@@ -9,7 +9,7 @@ WriteMakefile
           'EXE_FILES' => [],
           'VERSION_FROM' => 'lib/Color/Calc/hex.pm',
           'PREREQ_PM' => {
-                           'Color::Calc' => '1.05'
+                           'Color::Calc' => '1.06'
                          }
         )
 ;
