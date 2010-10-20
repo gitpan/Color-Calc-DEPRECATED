@@ -8,7 +8,7 @@ use Carp;
 use Exporter;
 use Color::Calc();
 
-our $VERSION = "1.060";
+our $VERSION = "1.070";
 $VERSION = eval $VERSION;
 
 our @ISA = qw(Exporter);

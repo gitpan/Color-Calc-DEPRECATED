@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.55.
+signed via the Module::Signature module, version 0.64.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -14,18 +14,18 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 3dad2c1b1136fdfc5b96d2e7c7c9ea3bea86c00d Build.PL
-SHA1 a2e64d624983c365cf6d6c9e1e5730e717d8eede Changes
-SHA1 5e8892b211d2e08c1b98d3a033b4d8439158339e LICENSE
-SHA1 df489ee64a6f151a62c525b244a1bf9b3ec14989 MANIFEST
-SHA1 0c2cfd1bb0c0fd238d9e08ea3c40058a5d5a9dc1 META.yml
-SHA1 bc1fde52bc53e4cb68120b85398b2547e6849670 Makefile.PL
+SHA1 d55a425229690380179793f4faad20ae73a53e1a Build.PL
+SHA1 bf50b585fa3de753e387af1236c8425543d0e43b Changes
+SHA1 9190200052fd314c4731eee1fb62da49259738df LICENSE
+SHA1 8b0d1a535a65158c6990723cad4f99ab5f2810be MANIFEST
+SHA1 f09bdcd9b860f66e0418040124f28cc8f244dda6 META.yml
+SHA1 2b91fd183708308397c00c102d7ae8eaedf8328d Makefile.PL
 SHA1 5b63e65489d672bdf6866bf6de6f83a2f3e9c67e README
-SHA1 5f2bd97d9fd53f1e6deaa7b9a3673f94e57c28ba lib/Color/Calc/hex.pm
-SHA1 77e5a944deb88874208e16160067331893e77e98 lib/Color/Calc/html.pm
-SHA1 7d4a329bff18c80b2bd13526e2e437f6f1c5f8ea lib/Color/Calc/object.pm
-SHA1 f1bdb5c4274efed2263c62700f78626f58b36e0f lib/Color/Calc/pdf.pm
-SHA1 ca6ba8a89c6a69ccc9bf3ab85cd626a72f6fd295 lib/Color/Calc/tuple.pm
+SHA1 090a11bb442b64aae0b93442aada054d2e3609e9 lib/Color/Calc/hex.pm
+SHA1 2b86be03e82e2c50005b4974afc39e6c701275f2 lib/Color/Calc/html.pm
+SHA1 afeee0101dfc12a62541c6dd710a0cefead80755 lib/Color/Calc/object.pm
+SHA1 d2d07fc4a61ef71492684b1c2e02febc3bacf346 lib/Color/Calc/pdf.pm
+SHA1 514182b8f41d557932ca33ca3470a032844857a9 lib/Color/Calc/tuple.pm
 SHA1 8383f21c3a945b30e4be722f6b2b46a64a8cdfbe t/DEPRECATED_import_hex.t
 SHA1 d585280d0c1c6175af5073fde3297b663570cdb5 t/DEPRECATED_import_html.t
 SHA1 48c29297226fcbeddf9037cee8fb16a42ec0bc4d t/DEPRECATED_import_object.t
@@ -34,7 +34,7 @@ SHA1 210a70371bb396ac754461832465aa4cb0d0d8f8 t/DEPRECATED_non-import.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (Darwin)
 
-iEYEARECAAYFAks21KQACgkQSKUOY2OWgPC7PACffj7fmUB7HapHzds+hRcEsAuv
-ghUAoIwayKFzwrxEBULEHJ2bSVVSj78g
-=Mbb7
+iEYEARECAAYFAky/blwACgkQSKUOY2OWgPCRsACgod+QF2eVOp1sbJJ62EV2y7j0
+eeIAn3hPrVBXzI5gdUUIvQHJAukbLu/i
+=7ZiS
 -----END PGP SIGNATURE-----

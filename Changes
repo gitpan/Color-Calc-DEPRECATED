@@ -1,5 +1,10 @@
 Revision history for Perl extension Color::Calc::DEPRECATED.
 
+1.070 (2010-10-20)
+	- bump required Color::Calc version to 1.070 as this fixes
+	  a problems that causes these modules to fail if a file
+	  named 'X' is present
+
 1.060 (2010-01-01)
 	- release, hopefully final version
 

@@ -1,34 +1,34 @@
 ---
-name: Color-Calc-DEPRECATED
-version: 1.060
+abstract: 'DEPRECATED modules from Color::Calc'
 author:
-  - 'Claus Färber <CFAERBER@cpan.org>'
-abstract: deprecated and obsolete modules from Color::Calc
-license: perl
-resources:
-  license: http://dev.perl.org/licenses/
-requires:
-  Color::Calc: 1.06
-  perl: 5.006
+  - 'Claus Faerber <CFAERBER@cpan.org>'
 configure_requires:
-  Module::Build: 0.35
-provides:
-  Color::Calc::hex:
-    file: lib/Color/Calc/hex.pm
-    version: 1.060
-  Color::Calc::html:
-    file: lib/Color/Calc/html.pm
-    version: 1.060
-  Color::Calc::object:
-    file: lib/Color/Calc/object.pm
-    version: 1.060
-  Color::Calc::pdf:
-    file: lib/Color/Calc/pdf.pm
-    version: 1.060
-  Color::Calc::tuple:
-    file: lib/Color/Calc/tuple.pm
-    version: 1.060
-generated_by: Module::Build version 0.35
+  Module::Build: 0.36
+generated_by: 'Module::Build version 0.3607'
+license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
+name: Color-Calc-DEPRECATED
+provides:
+  Color::Calc::hex:
+    file: lib/Color/Calc/hex.pm
+    version: 1.070
+  Color::Calc::html:
+    file: lib/Color/Calc/html.pm
+    version: 1.070
+  Color::Calc::object:
+    file: lib/Color/Calc/object.pm
+    version: 1.070
+  Color::Calc::pdf:
+    file: lib/Color/Calc/pdf.pm
+    version: 1.070
+  Color::Calc::tuple:
+    file: lib/Color/Calc/tuple.pm
+    version: 1.070
+requires:
+  Color::Calc: 1.07
+  perl: 5.006
+resources:
+  license: http://dev.perl.org/licenses/
+version: 1.070
